@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752502638194",
+    "firebase_url": "https://fcmsample-68e8e.firebaseio.com",
+    "project_id": "fcmsample-68e8e",
+    "storage_bucket": "fcmsample-68e8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752502638194:android:40dc30616d156d18",
+        "android_client_info": {
+          "package_name": "com.example.rajayambigms.fcmclientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752502638194-tip23rpm6huctnmrvpmmsvi4cb78buo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajayambigms.fcmclientapp",
+            "certificate_hash": "f316cd845ee04bd617efc2944bab6ba1b1fe554a"
+          }
+        },
+        {
+          "client_id": "752502638194-dati5delfbean1rna1afp1m0h530c7pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPdStxkl5_FC-hgXWBU_Ri0ymfHeXfDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752502638194-dati5delfbean1rna1afp1m0h530c7pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
